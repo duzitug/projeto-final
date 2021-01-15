@@ -1,0 +1,48 @@
+1	02/04/2019 12:12:21	Diego Walisson Pereira Camara Santos
+2	02/04/2019 12:34:11	almokhtar bekkour 
+3	02/04/2019 13:30:27	CELIJANE Cosme dos Santos Neumann
+4	02/04/2019 13:48:40	Arthur Silva Do Nascimento
+5	02/04/2019 15:09:48	Gustavo Pereira
+6	02/04/2019 17:13:15	Junior Abranches
+7	02/04/2019 17:33:01	Anderson Vieira Machado
+8	02/04/2019 17:36:06	Jorge Ramos
+9	02/04/2019 17:37:20	Luiz
+10	02/04/2019 17:39:20	Alfonso Noerenberg Junior
+11	02/04/2019 18:02:33	Igor Medeiros Motta
+12	02/04/2019 18:31:44	Allysson Brunno P de Melo
+13	02/04/2019 18:36:00	Ernandes Nery M. Almeida
+14	02/04/2019 18:48:36	Vinícius Soares 
+15	02/04/2019 19:38:25	Djavani Gomes
+16	02/04/2019 19:54:35	Samir José Lopes Souza
+17	02/04/2019 20:08:07	Renan Fialho
+18	02/04/2019 20:29:47	Vinícius Loiola Cavalheiro
+19	02/04/2019 21:16:45	Paulo Victor Costa Mesquita Pinto
+20	02/04/2019 21:57:17	Alexandre Azevedo
+21	02/04/2019 22:09:14	Bethoven Rocha Amora
+22	02/04/2019 22:11:04	João Batista Ferreira Junior
+23	02/04/2019 23:18:46	Gregory Kevin Martins Bastos de Souza
+24	02/04/2019 23:48:22	Luís Augusto Rodrigues Domingues
+25	02/04/2019 23:54:21	Edson Pereira da Silva
+26	02/04/2019 23:58:26	João Batista Braga Marques
+27	03/04/2019 01:17:11	Julio Freitas
+28	03/04/2019 01:19:32	Gerson dos Santos souza
+29	03/04/2019 02:10:08	André Luiz Cordeiro de Araújo
+30	03/04/2019 06:43:34	Renan Destri Borges
+31	03/04/2019 08:04:09	francisco edilson felismino oliveira
+==> 32	03/04/2019 08:04:10	Deyvisson Augusto Pinheiro Conceição - Symfony Live 2019
+33	03/04/2019 08:04:37	Rafael Alves Machado Costa
+34	03/04/2019 09:13:25	Salomao Santos
+35	03/04/2019 09:51:37	deyvisson augusto pinheiro conceicao
+36	03/04/2019 10:29:55	Fabricio Hayashi Ney
+37	03/04/2019 11:49:41	Christopher Stefano Carvalho Gonçalves
+38	03/04/2019 13:55:18	José Christian Lima Quirino
+39	03/04/2019 18:44:44	Luis Lazaro Correa Menezes
+40	04/04/2019 07:48:09	Leonardo Brito Rosa
+41	04/04/2019 12:54:13	Rafael de Souza Calearo
+42	04/04/2019 14:55:53	Raimundo Escoscio
+43	04/04/2019 16:58:00	Danniel Dias Braga
+44	05/04/2019 00:51:28	Raphael Nascimento Viana 
+45	05/04/2019 11:36:45	rafael silva e silva
+46	05/04/2019 11:42:30	Bruno Leonardo Araújo Silva
+47	05/04/2019 14:36:49	Rodolfo nascimento
+==> 48	08/04/2019 21:19:12	Cézar Henrique - Darkmira Tour

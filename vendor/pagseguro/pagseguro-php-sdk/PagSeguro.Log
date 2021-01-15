@@ -1,0 +1,167 @@
+
+08/01/2021 20:07:05 PagSeguro.Session[info]: Begin
+08/01/2021 20:07:06 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nandokstro%40gmail.com&token=74AC9F13254844E592C46F81A546A41B
+08/01/2021 20:07:13 PagSeguro.Session[info]: Session ID: 7df9666fb3dd491aa323ebd5ba66ad26
+08/01/2021 20:10:24 PagSeguro.DirectPayment.CreditCard[info]: Begin
+08/01/2021 20:10:24 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nandokstro%40gmail.com&token=74AC9F13254844E592C46F81A546A41B
+08/01/2021 20:10:24 PagSeguro.Checkout[info]: Params: {"reference":"a5515ee2ab6be01f626869a251b457348bcd09125ff8e6605dbce_CODE_LEARN","billingAddressStreet":"Av. Brig. Faria Lima","billingAddressNumber":"1384","billingAddressComplement":"apto. 114","billingAddressCity":"S\u00e3o Paulo","billingAddressState":"SP","billingAddressDistrict":"Jardim Paulistano","billingAddressPostalCode":"01452002","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Jo\u00e3o das Couves","creditCardHolderBirthDate":"01\/10\/1979","creditCardHolderAreaCode":11,"creditCardHolderPhone":56273440,"creditCardHolderCPF":"02551807131","installmentQuantity":"1","installmentValue":"19.47","itemId1":"a5515ee2ab6be01f626869a251b457348bcd09125ff8e6605dbce_CODE_LEARN","itemDescription1":"hnlis","itemQuantity1":"1","itemAmount1":"19.47","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nandokstro@gmail.com","senderName":"M\u00e9rcio Filho","senderEmail":"email@sandbox.pagseguro.com.br","senderAreaCode":11,"senderPhone":"(**) 5627-****","senderCPF":"025.***.***-**","senderIp":"127.0.0.0","senderHash":"407e437401c027a9795dbd7491cc258cb1bd1a4cd6931db01f4e9542fa3f53f5","shippingAddressStreet":"Av. Brig. Faria Lima","shippingAddressNumber":"1384","shippingAddressComplement":"apto. 114","shippingAddressCity":"S\u00e3o Paulo","shippingAddressState":"SP","shippingAddressDistrict":"Jardim Paulistano","shippingAddressPostalCode":"01452002","shippingAddressCountry":"BRA","creditCardToken":"214528ee9f77415fb5d0b1551a281be3"}
+08/01/2021 20:10:33 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 97CD414C-9710-448B-A2F3-BCC41F1CDE3E
+08/01/2021 20:12:08 PagSeguro.Session[info]: Begin
+08/01/2021 20:12:08 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nandokstro%40gmail.com&token=74AC9F13254844E592C46F81A546A41B
+08/01/2021 20:12:14 PagSeguro.Session[info]: Session ID: e69bfa4b49fb4326a36d0f08b5f6ee54
+08/01/2021 20:45:29 PagSeguro.DirectPayment.CreditCard[info]: Begin
+08/01/2021 20:45:29 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nandokstro%40gmail.com&token=74AC9F13254844E592C46F81A546A41B
+08/01/2021 20:45:29 PagSeguro.Checkout[info]: Params: {"reference":"a5515ee2ab6be01f626869a251b457348bcd09125ff8ee991f490_CODE_LEARN","billingAddressStreet":"Av. Brig. Faria Lima","billingAddressNumber":"1384","billingAddressComplement":"apto. 114","billingAddressCity":"S\u00e3o Paulo","billingAddressState":"SP","billingAddressDistrict":"Jardim Paulistano","billingAddressPostalCode":"01452002","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Jo\u00e3o das Couves","creditCardHolderBirthDate":"01\/10\/1979","creditCardHolderAreaCode":11,"creditCardHolderPhone":56273440,"creditCardHolderCPF":"02551807131","installmentQuantity":"2","installmentValue":"10.18","itemId1":"a5515ee2ab6be01f626869a251b457348bcd09125ff8ee991f490_CODE_LEARN","itemDescription1":"hnlis","itemQuantity1":"1","itemAmount1":"19.47","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nandokstro@gmail.com","senderName":"M\u00e9rcio Filho","senderEmail":"email@sandbox.pagseguro.com.br","senderAreaCode":11,"senderPhone":"(**) 5627-****","senderCPF":"025.***.***-**","senderIp":"127.0.0.0","senderHash":"25b1bbb737a74c3ab54cbca6f4127703097c8b0a41839577485d8e829131a207","shippingAddressStreet":"Av. Brig. Faria Lima","shippingAddressNumber":"1384","shippingAddressComplement":"apto. 114","shippingAddressCity":"S\u00e3o Paulo","shippingAddressState":"SP","shippingAddressDistrict":"Jardim Paulistano","shippingAddressPostalCode":"01452002","shippingAddressCountry":"BRA","creditCardToken":"370f25a206d94821a7d5013c1dca7302"}
+08/01/2021 20:45:40 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: AB34F2D0-53C5-4D15-BBE3-C55058398CBC
+08/01/2021 20:46:27 PagSeguro.Session[info]: Begin
+08/01/2021 20:46:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nandokstro%40gmail.com&token=74AC9F13254844E592C46F81A546A41B
+08/01/2021 20:46:33 PagSeguro.Session[info]: Session ID: 2e8dee2e8da4448497d90dcf47a01921
+08/01/2021 20:56:47 PagSeguro.DirectPayment.CreditCard[info]: Begin
+08/01/2021 20:56:47 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=nandokstro%40gmail.com&token=74AC9F13254844E592C46F81A546A41B
+08/01/2021 20:56:47 PagSeguro.Checkout[info]: Params: {"reference":"a5515ee2ab6be01f626869a251b457348bcd09125ff8ef7094808_CODE_LEARN","billingAddressStreet":"Av. Brig. Faria Lima","billingAddressNumber":"1384","billingAddressComplement":"apto. 114","billingAddressCity":"S\u00e3o Paulo","billingAddressState":"SP","billingAddressDistrict":"Jardim Paulistano","billingAddressPostalCode":"01452002","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Jo\u00e3o das Couves","creditCardHolderBirthDate":"01\/10\/1979","creditCardHolderAreaCode":11,"creditCardHolderPhone":56273440,"creditCardHolderCPF":"02551807131","installmentQuantity":"2","installmentValue":"5.00","itemId1":"a5515ee2ab6be01f626869a251b457348bcd09125ff8ef7094808_CODE_LEARN","itemDescription1":"cylsz","itemQuantity1":"1","itemAmount1":"9.57","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"nandokstro@gmail.com","senderName":"M\u00e9rcio Filho","senderEmail":"email@sandbox.pagseguro.com.br","senderAreaCode":11,"senderPhone":"(**) 5627-****","senderCPF":"025.***.***-**","senderIp":"127.0.0.0","senderHash":"cf50228330f5cdf629d1b7f0117e47f9fa8c3331542d6ad0fdba6ef8634c439e","shippingAddressStreet":"Av. Brig. Faria Lima","shippingAddressNumber":"1384","shippingAddressComplement":"apto. 114","shippingAddressCity":"S\u00e3o Paulo","shippingAddressState":"SP","shippingAddressDistrict":"Jardim Paulistano","shippingAddressPostalCode":"01452002","shippingAddressCountry":"BRA","creditCardToken":"ca3fe5568a444e0eb36870f2a09a69a7"}
+08/01/2021 20:56:56 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: E9CFE155-F873-44FE-8F65-9382B7679789
+08/01/2021 21:09:06 PagSeguro.Session[info]: Begin
+08/01/2021 21:09:06 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nandokstro%40gmail.com&token=74AC9F13254844E592C46F81A546A41B
+08/01/2021 21:09:12 PagSeguro.Session[info]: Session ID: 460bf0dc556241238f86ee1f3d64c7f5
+10/01/2021 08:38:58 PagSeguro.Session[info]: Begin
+10/01/2021 08:38:58 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=nandokstro%40gmail.com&token=74AC9F13254844E592C46F81A546A41B
+10/01/2021 08:39:05 PagSeguro.Session[info]: Session ID: 0cc1317b35de4757b97f11d53d973a55
+10/01/2021 09:26:29 PagSeguro.Session[info]: Begin
+10/01/2021 09:26:29 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+10/01/2021 09:26:35 PagSeguro.Session[info]: Session ID: 4371b9a94dac4a10a8a1d6a43c0f29ef
+10/01/2021 09:28:51 PagSeguro.DirectPayment.CreditCard[info]: Begin
+10/01/2021 09:28:51 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+10/01/2021 09:28:51 PagSeguro.Checkout[info]: Params: {"reference":"3fc9cb3b587063bf3396dd32627e5e59907103ed5ffaf2d50bc19_CODE_LEARN","billingAddressStreet":"Av. Brig. Faria Lima","billingAddressNumber":"1384","billingAddressComplement":"apto. 114","billingAddressCity":"S\u00e3o Paulo","billingAddressState":"SP","billingAddressDistrict":"Jardim Paulistano","billingAddressPostalCode":"01452002","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Jose das Couves","creditCardHolderBirthDate":"01\/10\/1979","creditCardHolderAreaCode":11,"creditCardHolderPhone":56273440,"creditCardHolderCPF":"02551807131","installmentQuantity":"1","installmentValue":"628.99","itemId1":"3fc9cb3b587063bf3396dd32627e5e59907103ed5ffaf2d50bc19_CODE_LEARN","itemDescription1":"Nome do produto 1","itemQuantity1":"2","itemAmount1":"150.00","itemId2":"3fc9cb3b587063bf3396dd32627e5e59907103ed5ffaf2d50bc19_CODE_LEARN","itemDescription2":"sqylp","itemQuantity2":"3","itemAmount2":"78.74","itemId3":"3fc9cb3b587063bf3396dd32627e5e59907103ed5ffaf2d50bc19_CODE_LEARN","itemDescription3":"eqcly","itemQuantity3":"1","itemAmount3":"92.77","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"merciofilho@gmail.com","senderName":"jose das couves","senderEmail":"email@sandbox.pagseguro.com.br","senderAreaCode":11,"senderPhone":"(**) 5627-****","senderCPF":"025.***.***-**","senderIp":"127.0.0.0","senderHash":"4f69de13ff610eea3d3c3d584c0a3e89e77adae6398c5a63e7956195a6f1fe6b","shippingAddressStreet":"Av. Brig. Faria Lima","shippingAddressNumber":"1384","shippingAddressComplement":"apto. 114","shippingAddressCity":"S\u00e3o Paulo","shippingAddressState":"SP","shippingAddressDistrict":"Jardim Paulistano","shippingAddressPostalCode":"01452002","shippingAddressCountry":"BRA","creditCardToken":"869788c6071b4588be98df2df931a48b"}
+10/01/2021 09:29:00 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 5DF47D65-0B44-4AD8-8FB4-FCF4FC4B3645
+10/01/2021 11:42:39 PagSeguro.Session[info]: Begin
+10/01/2021 11:42:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+10/01/2021 11:42:45 PagSeguro.Session[info]: Session ID: af91eb83fb4a4ae5ac8f0ba72c42d958
+10/01/2021 11:59:52 PagSeguro.DirectPayment.CreditCard[info]: Begin
+10/01/2021 12:00:04 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+10/01/2021 12:00:07 PagSeguro.Checkout[info]: Params: {"reference":"3fc9cb3b587063bf3396dd32627e5e59907103ed5ffb12f8af268_CODE_LEARN","billingAddressStreet":"Av. Brig. Faria Lima","billingAddressNumber":"1384","billingAddressComplement":"apto. 114","billingAddressCity":"S\u00e3o Paulo","billingAddressState":"SP","billingAddressDistrict":"Jardim Paulistano","billingAddressPostalCode":"01452002","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Silvestre Estalonge","creditCardHolderBirthDate":"01\/10\/1979","creditCardHolderAreaCode":11,"creditCardHolderPhone":56273440,"creditCardHolderCPF":"02551807131","installmentQuantity":"6","installmentValue":"77.12","itemId1":"3fc9cb3b587063bf3396dd32627e5e59907103ed5ffb12f8af268_CODE_LEARN","itemDescription1":"hnlis","itemQuantity1":"2","itemAmount1":"19.47","itemId2":"3fc9cb3b587063bf3396dd32627e5e59907103ed5ffb12f8af268_CODE_LEARN","itemDescription2":"hhqaf","itemQuantity2":"1","itemAmount2":"55.82","itemId3":"3fc9cb3b587063bf3396dd32627e5e59907103ed5ffb12f8af268_CODE_LEARN","itemDescription3":"esrtj","itemQuantity3":"4","itemAmount3":"80.79","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"merciofilho@gmail.com","senderName":"jose das couves","senderEmail":"email@sandbox.pagseguro.com.br","senderAreaCode":11,"senderPhone":"(**) 5627-****","senderCPF":"025.***.***-**","senderIp":"127.0.0.0","senderHash":"ec630f7029b38cbf922e9254b10438695fc2c5ddaa38023299eae3de5ba190ea","shippingAddressStreet":"Av. Brig. Faria Lima","shippingAddressNumber":"1384","shippingAddressComplement":"apto. 114","shippingAddressCity":"S\u00e3o Paulo","shippingAddressState":"SP","shippingAddressDistrict":"Jardim Paulistano","shippingAddressPostalCode":"01452002","shippingAddressCountry":"BRA","creditCardToken":"5b07f2f2ba1445278375f31218f5e3ec"}
+10/01/2021 12:01:17 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: EFE06E0B-7B07-48F7-A4FE-D46A8DE9487A
+10/01/2021 15:57:59 PagSeguro.Transactions.Notification[info]: Begin
+10/01/2021 15:57:59 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/C45B5086177B177B150664365F9E97E13DAC?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+10/01/2021 15:58:06 PagSeguro.Transactions.Notification[info]: Date: 2021-01-10T12:00:23.000-03:00, Code: EFE06E0B-7B07-48F7-A4FE-D46A8DE9487A
+10/01/2021 15:59:57 PagSeguro.Transactions.Notification[info]: Begin
+10/01/2021 15:59:57 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/C45B5086177B177B150664365F9E97E13DAC?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+10/01/2021 16:00:03 PagSeguro.Transactions.Notification[info]: Date: 2021-01-10T12:00:23.000-03:00, Code: EFE06E0B-7B07-48F7-A4FE-D46A8DE9487A
+10/01/2021 19:08:43 PagSeguro.Transactions.Notification[info]: Begin
+10/01/2021 19:08:43 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/1615157F91E691E6782BB44BDF8885B94FB7?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+10/01/2021 19:08:49 PagSeguro.Transactions.Notification[info]: Date: 2021-01-10T09:28:52.000-03:00, Code: 5DF47D65-0B44-4AD8-8FB4-FCF4FC4B3645
+10/01/2021 19:11:07 PagSeguro.Transactions.Notification[info]: Begin
+10/01/2021 19:11:07 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/1615157F91E691E6782BB44BDF8885B94FB7?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+10/01/2021 19:11:15 PagSeguro.Transactions.Notification[info]: Date: 2021-01-10T09:28:52.000-03:00, Code: 5DF47D65-0B44-4AD8-8FB4-FCF4FC4B3645
+10/01/2021 19:17:27 PagSeguro.Transactions.Notification[info]: Begin
+10/01/2021 19:17:27 PagSeguro.Transactions.Notification[error]: Invalid notification parameters.
+10/01/2021 19:17:45 PagSeguro.Transactions.Notification[info]: Begin
+10/01/2021 19:17:45 PagSeguro.Transactions.Notification[error]: Invalid notification parameters.
+10/01/2021 20:44:10 PagSeguro.Transactions.Notification[info]: Begin
+10/01/2021 20:44:10 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/1615157F91E691E6782BB44BDF8885B94FB7?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+10/01/2021 20:44:17 PagSeguro.Transactions.Notification[info]: Date: 2021-01-10T09:28:52.000-03:00, Code: 5DF47D65-0B44-4AD8-8FB4-FCF4FC4B3645
+10/01/2021 20:48:19 PagSeguro.Transactions.Notification[info]: Begin
+10/01/2021 20:48:45 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/undefined?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+10/01/2021 20:50:56 PagSeguro.Transactions.Notification[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>13001</code><message>invalid notification code value: undefined</message></error></errors>
+10/01/2021 20:50:59 PagSeguro.Transactions.Notification[info]: Begin
+10/01/2021 20:50:59 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/undefined?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+10/01/2021 20:53:52 PagSeguro.Transactions.Notification[error]: <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?><errors><error><code>13001</code><message>invalid notification code value: undefined</message></error></errors>
+10/01/2021 20:53:54 PagSeguro.Transactions.Notification[info]: Begin
+10/01/2021 20:53:54 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/1615157F91E691E6782BB44BDF8885B94FB7?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+10/01/2021 20:57:19 PagSeguro.Transactions.Notification[info]: Date: 2021-01-10T09:28:52.000-03:00, Code: 5DF47D65-0B44-4AD8-8FB4-FCF4FC4B3645
+10/01/2021 21:02:47 PagSeguro.Transactions.Notification[info]: Begin
+10/01/2021 21:02:47 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/1615157F91E691E6782BB44BDF8885B94FB7?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+10/01/2021 21:05:06 PagSeguro.Transactions.Notification[info]: Date: 2021-01-10T09:28:52.000-03:00, Code: 5DF47D65-0B44-4AD8-8FB4-FCF4FC4B3645
+10/01/2021 21:05:58 PagSeguro.Transactions.Notification[info]: Begin
+10/01/2021 21:05:58 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/1615157F91E691E6782BB44BDF8885B94FB7?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+10/01/2021 21:06:04 PagSeguro.Transactions.Notification[info]: Date: 2021-01-10T09:28:52.000-03:00, Code: 5DF47D65-0B44-4AD8-8FB4-FCF4FC4B3645
+10/01/2021 21:06:23 PagSeguro.Transactions.Notification[info]: Begin
+10/01/2021 21:06:23 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/1615157F91E691E6782BB44BDF8885B94FB7?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+10/01/2021 21:19:36 PagSeguro.Transactions.Notification[info]: Date: 2021-01-10T09:28:52.000-03:00, Code: 5DF47D65-0B44-4AD8-8FB4-FCF4FC4B3645
+10/01/2021 21:21:13 PagSeguro.Transactions.Notification[info]: Begin
+10/01/2021 21:21:13 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/1615157F91E691E6782BB44BDF8885B94FB7?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+10/01/2021 21:21:19 PagSeguro.Transactions.Notification[info]: Date: 2021-01-10T09:28:52.000-03:00, Code: 5DF47D65-0B44-4AD8-8FB4-FCF4FC4B3645
+10/01/2021 21:21:44 PagSeguro.Transactions.Notification[info]: Begin
+10/01/2021 21:21:44 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/1615157F91E691E6782BB44BDF8885B94FB7?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+10/01/2021 21:21:51 PagSeguro.Transactions.Notification[info]: Date: 2021-01-10T09:28:52.000-03:00, Code: 5DF47D65-0B44-4AD8-8FB4-FCF4FC4B3645
+10/01/2021 21:29:57 PagSeguro.Transactions.Notification[info]: Begin
+10/01/2021 21:29:57 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/ECD510B001780178699EE4970F8B02D0803E?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+10/01/2021 21:30:04 PagSeguro.Transactions.Notification[info]: Date: 2021-01-10T12:00:23.000-03:00, Code: EFE06E0B-7B07-48F7-A4FE-D46A8DE9487A
+11/01/2021 08:01:55 PagSeguro.Session[info]: Begin
+11/01/2021 08:01:55 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+11/01/2021 08:02:03 PagSeguro.Session[info]: Session ID: e879d13839ec4e078056ae599d37e3cb
+11/01/2021 08:08:02 PagSeguro.DirectPayment.CreditCard[info]: Begin
+11/01/2021 08:08:02 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+11/01/2021 08:08:02 PagSeguro.Checkout[info]: Params: {"reference":"3fc9cb3b587063bf3396dd32627e5e59907103ed5ffc3147498b0_CODE_LEARN","billingAddressStreet":"Av. Brig. Faria Lima","billingAddressNumber":"1384","billingAddressComplement":"apto. 114","billingAddressCity":"S\u00e3o Paulo","billingAddressState":"SP","billingAddressDistrict":"Jardim Paulistano","billingAddressPostalCode":"01452002","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"M\u00e9rcio Jos\u00e9","creditCardHolderBirthDate":"01\/10\/1979","creditCardHolderAreaCode":11,"creditCardHolderPhone":56273440,"creditCardHolderCPF":"02551807131","installmentQuantity":"6","installmentValue":"51.36","itemId1":"3fc9cb3b587063bf3396dd32627e5e59907103ed5ffc3147498b0_CODE_LEARN","itemDescription1":"eqcly","itemQuantity1":"1","itemAmount1":"92.77","itemId2":"3fc9cb3b587063bf3396dd32627e5e59907103ed5ffc3147498b0_CODE_LEARN","itemDescription2":"eqcly","itemQuantity2":"2","itemAmount2":"92.77","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"merciofilho@gmail.com","senderName":"jose das couves","senderEmail":"email@sandbox.pagseguro.com.br","senderAreaCode":11,"senderPhone":"(**) 5627-****","senderCPF":"025.***.***-**","senderIp":"127.0.0.0","senderHash":"e9e0095ebbeab398a92ce146e650571a925a6ac3a6ca0f1e383643eafe5e7e7a","shippingAddressStreet":"Av. Brig. Faria Lima","shippingAddressNumber":"1384","shippingAddressComplement":"apto. 114","shippingAddressCity":"S\u00e3o Paulo","shippingAddressState":"SP","shippingAddressDistrict":"Jardim Paulistano","shippingAddressPostalCode":"01452002","shippingAddressCountry":"BRA","creditCardToken":"55ef20ef1f9e4be9be45f087f35514e8"}
+11/01/2021 08:08:14 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 6FB6A11B-313B-48B3-A7E0-BCD347559DDF
+11/01/2021 09:43:34 PagSeguro.Session[info]: Begin
+11/01/2021 09:43:34 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+11/01/2021 09:43:40 PagSeguro.Session[info]: Session ID: c92390215b29473f8cecadb847377c78
+11/01/2021 09:55:09 PagSeguro.Session[info]: Begin
+11/01/2021 09:55:09 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+11/01/2021 09:55:16 PagSeguro.Session[info]: Session ID: 1d4972217e57415787c5721ed6116c16
+11/01/2021 11:00:55 PagSeguro.Session[info]: Begin
+11/01/2021 11:00:55 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+11/01/2021 11:01:02 PagSeguro.Session[info]: Session ID: f87963bd0ca643daadba1c2dc9900138
+11/01/2021 11:06:51 PagSeguro.Session[info]: Begin
+11/01/2021 11:06:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+11/01/2021 11:06:58 PagSeguro.Session[info]: Session ID: 7d5b23b081e64f2fb3b4ed56ca57c3f9
+11/01/2021 11:09:43 PagSeguro.Session[info]: Begin
+11/01/2021 11:09:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+11/01/2021 11:09:49 PagSeguro.Session[info]: Session ID: cf65625376cd4ed185dc8d995310a666
+11/01/2021 11:14:38 PagSeguro.DirectPayment.CreditCard[info]: Begin
+11/01/2021 11:15:27 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+11/01/2021 11:15:28 PagSeguro.Checkout[info]: Params: {"reference":"81420d219afbc4e2a33628a8677bbd994810487f5ffc5cf175fcd_CODE_LEARN","billingAddressStreet":"Av. Brig. Faria Lima","billingAddressNumber":"1384","billingAddressComplement":"apto. 114","billingAddressCity":"S\u00e3o Paulo","billingAddressState":"SP","billingAddressDistrict":"Jardim Paulistano","billingAddressPostalCode":"01452002","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Arnold Suasnega","creditCardHolderBirthDate":"01\/10\/1979","creditCardHolderAreaCode":11,"creditCardHolderPhone":56273440,"creditCardHolderCPF":"02551807131","installmentQuantity":"6","installmentValue":"55.36","itemId1":"81420d219afbc4e2a33628a8677bbd994810487f5ffc5cf175fcd_CODE_LEARN","itemDescription1":"Nome do produto 1","itemQuantity1":"2","itemAmount1":"150.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"merciofilho@gmail.com","senderName":"Arnold  SuasNega","senderEmail":"email@sandbox.pagseguro.com.br","senderAreaCode":11,"senderPhone":"(**) 5627-****","senderCPF":"025.***.***-**","senderIp":"127.0.0.0","senderHash":"b6aca3ab0625db9ecec922ee53061070b518d9459a0d3856ac4202cdc09fb68f","shippingAddressStreet":"Av. Brig. Faria Lima","shippingAddressNumber":"1384","shippingAddressComplement":"apto. 114","shippingAddressCity":"S\u00e3o Paulo","shippingAddressState":"SP","shippingAddressDistrict":"Jardim Paulistano","shippingAddressPostalCode":"01452002","shippingAddressCountry":"BRA","creditCardToken":"8d9d83659f254ec4aaf9ee4b0191aeea"}
+11/01/2021 11:23:11 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: 4E36A77C-9176-4502-8564-383F81B4D410
+11/01/2021 19:34:21 PagSeguro.Session[info]: Begin
+11/01/2021 19:34:21 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+11/01/2021 19:34:28 PagSeguro.Session[info]: Session ID: ff4d7985ec2c44d4a55e668cb22d7802
+14/01/2021 12:42:23 PagSeguro.Session[info]: Begin
+14/01/2021 12:42:23 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+14/01/2021 12:42:30 PagSeguro.Session[info]: Session ID: 8e696dc7eb1e462bac6c8e4eb526edb3
+14/01/2021 12:47:24 PagSeguro.Session[info]: Begin
+14/01/2021 12:47:24 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+14/01/2021 12:47:30 PagSeguro.Session[info]: Session ID: ac8dc82970d74f5781c58d74cc4321bc
+14/01/2021 12:51:51 PagSeguro.Session[info]: Begin
+14/01/2021 12:52:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+14/01/2021 12:55:22 PagSeguro.Session[info]: Session ID: 396748a20b66479c877d6fec33220889
+14/01/2021 15:39:25 PagSeguro.Session[info]: Begin
+14/01/2021 15:39:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+14/01/2021 15:57:55 PagSeguro.Session[info]: Session ID: 0373b6e1a81943baaa7ea5b45d39ccb6
+14/01/2021 16:26:10 PagSeguro.DirectPayment.CreditCard[info]: Begin
+14/01/2021 16:26:21 PagSeguro.DirectPayment.CreditCard[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/transactions/?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+14/01/2021 16:26:22 PagSeguro.Checkout[info]: Params: {"reference":"3fc9cb3b587063bf3396dd32627e5e59907103ed600099d060415_CODE_LEARN","billingAddressStreet":"Av. Brig. Faria Lima","billingAddressNumber":"1384","billingAddressComplement":"apto. 114","billingAddressCity":"S\u00e3o Paulo","billingAddressState":"SP","billingAddressDistrict":"Jardim Paulistano","billingAddressPostalCode":"01452002","billingAddressCountry":"BRA","currency":"BRL","creditCardHolderName":"Arnold Suas Nega","creditCardHolderBirthDate":"01\/10\/1979","creditCardHolderAreaCode":11,"creditCardHolderPhone":56273440,"creditCardHolderCPF":"02551807131","installmentQuantity":"2","installmentValue":"5.23","itemId1":"3fc9cb3b587063bf3396dd32627e5e59907103ed600099d060415_CODE_LEARN","itemDescription1":"10","itemQuantity1":"1","itemAmount1":"10.00","paymentMethod":"creditCard","paymentMode":"DEFAULT","receiverEmail":"merciofilho@gmail.com","senderName":"jose das couves","senderEmail":"email@sandbox.pagseguro.com.br","senderAreaCode":11,"senderPhone":"(**) 5627-****","senderCPF":"025.***.***-**","senderIp":"127.0.0.0","senderHash":"26b5f782451a3543f177197829de4239dbb3b1926bd12ee6b4fb2a3ef2289a31","shippingAddressStreet":"Av. Brig. Faria Lima","shippingAddressNumber":"1384","shippingAddressComplement":"apto. 114","shippingAddressCity":"S\u00e3o Paulo","shippingAddressState":"SP","shippingAddressDistrict":"Jardim Paulistano","shippingAddressPostalCode":"01452002","shippingAddressCountry":"BRA","creditCardToken":"fcdbeaf1391b4b8399c972e512c0818b"}
+14/01/2021 16:31:49 PagSeguro.DirectPayment.CreditCard[info]: Credit Card Payment Code: C36F8D81-901E-4A86-8B7E-8681A10A14D6
+14/01/2021 16:57:44 PagSeguro.Transactions.Notification[info]: Begin
+14/01/2021 17:00:12 PagSeguro.Transactions.Notification[error]: Invalid notification parameters.
+14/01/2021 17:00:43 PagSeguro.Transactions.Notification[info]: Begin
+14/01/2021 17:02:35 PagSeguro.Transactions.Notification[error]: Invalid notification parameters.
+14/01/2021 17:03:15 PagSeguro.Transactions.Notification[info]: Begin
+14/01/2021 17:03:50 PagSeguro.Transactions.Notification[info]: Begin
+14/01/2021 17:04:02 PagSeguro.Transactions.Notification[info]: Begin
+14/01/2021 17:04:23 PagSeguro.Transactions.Notification[info]: Begin
+14/01/2021 17:05:01 PagSeguro.Transactions.Notification[error]: Invalid notification parameters.
+14/01/2021 19:49:15 PagSeguro.Transactions.Notification[info]: Begin
+14/01/2021 19:51:03 PagSeguro.Transactions.Notification[error]: Invalid notification parameters.
+14/01/2021 19:53:16 PagSeguro.Transactions.Notification[info]: Begin
+14/01/2021 19:53:16 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/DA210B7A0C3F0C3F005334662FB9933E2762?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+14/01/2021 19:53:23 PagSeguro.Transactions.Notification[info]: Date: 2021-01-14T16:30:17.000-03:00, Code: C36F8D81-901E-4A86-8B7E-8681A10A14D6
+14/01/2021 19:53:25 PagSeguro.Transactions.Notification[info]: Begin
+14/01/2021 19:53:25 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/DA210B7A0C3F0C3F005334662FB9933E2762?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+14/01/2021 19:53:31 PagSeguro.Transactions.Notification[info]: Date: 2021-01-14T16:30:17.000-03:00, Code: C36F8D81-901E-4A86-8B7E-8681A10A14D6
+14/01/2021 19:53:34 PagSeguro.Transactions.Notification[info]: Begin
+14/01/2021 19:53:34 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/DA210B7A0C3F0C3F005334662FB9933E2762?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+14/01/2021 19:53:40 PagSeguro.Transactions.Notification[info]: Date: 2021-01-14T16:30:17.000-03:00, Code: C36F8D81-901E-4A86-8B7E-8681A10A14D6
+14/01/2021 19:55:27 PagSeguro.Transactions.Notification[info]: Begin
+14/01/2021 19:55:29 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/DA210B7A0C3F0C3F005334662FB9933E2762?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+14/01/2021 19:59:15 PagSeguro.Transactions.Notification[info]: Date: 2021-01-14T16:30:17.000-03:00, Code: C36F8D81-901E-4A86-8B7E-8681A10A14D6
+14/01/2021 20:19:17 PagSeguro.Transactions.Notification[info]: Begin
+14/01/2021 20:19:17 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/DA210B7A0C3F0C3F005334662FB9933E2762?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+14/01/2021 20:19:23 PagSeguro.Transactions.Notification[info]: Date: 2021-01-14T16:30:17.000-03:00, Code: C36F8D81-901E-4A86-8B7E-8681A10A14D6
+14/01/2021 20:19:51 PagSeguro.Transactions.Notification[info]: Begin
+14/01/2021 20:19:53 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/DA210B7A0C3F0C3F005334662FB9933E2762?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+14/01/2021 20:21:46 PagSeguro.Transactions.Notification[info]: Begin
+14/01/2021 20:21:46 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/DA210B7A0C3F0C3F005334662FB9933E2762?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+14/01/2021 20:21:52 PagSeguro.Transactions.Notification[info]: Date: 2021-01-14T16:30:17.000-03:00, Code: C36F8D81-901E-4A86-8B7E-8681A10A14D6
+14/01/2021 20:22:05 PagSeguro.Transactions.Notification[info]: Begin
+14/01/2021 20:22:08 PagSeguro.Transactions.Notification[info]: GET: https://ws.sandbox.pagseguro.uol.com.br/v3/transactions/notifications/DA210B7A0C3F0C3F005334662FB9933E2762?email=merciofilho%40gmail.com&token=7FF23243F9FD448C8EEB69088240AC28
+14/01/2021 20:24:12 PagSeguro.Transactions.Notification[info]: Date: 2021-01-14T16:30:17.000-03:00, Code: C36F8D81-901E-4A86-8B7E-8681A10A14D6
